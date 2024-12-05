@@ -2,6 +2,10 @@
 .backup
 .idea
 
+# Compiled images
+*.img
+kernel8.img
+
 # Prerequisites
 *.d
 
